@@ -1,0 +1,33 @@
+uiadmin:
+  site:
+    #ชื่อเว็บ
+    title: "UiAdmin-Express"
+    #logo 
+    logo: "https://s1.ax1x.com/2023/07/28/pCzWg2Q.png"
+    #logo 
+    logoTitle: "https://s1.ax1x.com/2023/07/28/pCzWg2Q.png"
+    logoBadge: "https://s1.ax1x.com/2023/07/28/pCzWg2Q.png"
+  system:
+    api-version: "1.0.0"
+    menu-from: "annotation"
+  user: 
+    user-role:
+      - id: 1
+        name: super_admin
+        title: ผู้ดูแลระบบขั้นสูง
+        menus: ""
+        status: 1
+      - id: 2
+        name: admin
+        title: ผู้ดูแลระบบ
+        menus:
+          - "/v1/admin/demo/lists"
+        status: 1
+    user-list:
+      - id: 1
+        nickname: "admin"
+        username: "admin"
+        password: "uiadmin"
+        avatar: ""
+        roles: "super_admin"
+        status: 1
