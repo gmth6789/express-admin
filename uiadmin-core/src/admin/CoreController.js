@@ -39,7 +39,7 @@ class CoreController {
 
   @Get('/xyadmin/')
   xyadmin(req, res) {
-    https.get('/xyadmin/?version=1.3.0', ret => {
+    https.get('https://uiadmin.net/xyadmin/?version=1.3.0', ret => {
         let list = [];
         ret.on('data', chunk => {
             list.push(chunk);
