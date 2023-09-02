@@ -1,11 +1,13 @@
 {
-  "name": "node-starter",
+  "name": "express-admin",
   "version": "0.0.0",
   "private": true,
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "babel-node app"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "uiadmin-express": "^1.0.15"
   }
 }
