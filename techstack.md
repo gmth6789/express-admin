@@ -3,8 +3,8 @@
 ## Tech Stack
 gmth6789/express-admin is built on the following main stack:
 
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [Babel](http://babeljs.io/) – JavaScript Compilers
 - [ESLint](http://eslint.org/) – Code Review
 - [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
@@ -17,8 +17,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 gmth6789/express-admin is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gmth6789/express-admin](https://github.com/gmth6789/express-admin)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|23<br/>Tools used|01/05/24 <br/>Report generated|
+|23<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
